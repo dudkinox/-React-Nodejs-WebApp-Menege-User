@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Mali:wght@500&display=swap");
+* {
+  font-family: "Mali";
+}
+/* color background */
+.content-wrapper {
+  background-color: #e4f2b6;
+}
+
+/* color menu */
+.os-content {
+  background: #fce5bd;
+}
+
+/* color card header */
+.card-header {
+  background: #ffc0c6;
+}
+/* header */
+nav.main-header.navbar.navbar-expand.navbar-white.navbar-light {
+  background: #979797;
+}
+/* footer color */
+footer.main-footer {
+  background: #979797;
+}
+
+img[alt="www.000webhost.com"] {
+  display: none;
+}
